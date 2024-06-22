@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.main-bg {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+}
+
+.content-container {
+  display: flex;
+  height: 90vh;
+  background-color: transparent;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-unordered-list-styling {
+  height: 60vh;
+  width: 60vw;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

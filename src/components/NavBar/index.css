@@ -1,0 +1,37 @@
+/* Write your code here. */
+
+.nav-container {
+  background-color: #ffffff33;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 7vh;
+  padding-top: 10px;
+}
+
+.emoji-game-icon-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-name-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.emoji-game-icon {
+  height: 50px;
+  width: 50px;
+}
+
+.scores-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  width: 20%;
+}
